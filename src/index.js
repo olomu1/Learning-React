@@ -12,7 +12,6 @@ import ReactDOM from 'react-dom';
 // serviceWorker.unregister();
 
 
-
 const title = React.createElement(
     'h1',
     {id: 'titleId', class: 'titleClass', style: style},
