@@ -12,11 +12,11 @@ import ReactDOM from 'react-dom';
 // serviceWorker.unregister();
 
 
-const title = React.createElement(
-    'h1',
-    {id: 'titleId', class: 'titleClass', style: style},
-    'This is my first REACT APP'
-)
+// const title = React.createElement(
+//     'h1',
+//     {id: 'titleId', class: 'titleClass', style: style},
+//     'This is my first REACT APP'
+// )
 
 // ReactDOM.render(
 //     title,
