@@ -18,7 +18,7 @@ import ReactDOM from 'react-dom';
 //     'This is my first REACT APP'
 // )
 
-ReactDOM.render(
-    title,
-    document.querySelector('#root'),
-)
+// ReactDOM.render(
+//     title,
+//     document.querySelector('#root'),
+// )
