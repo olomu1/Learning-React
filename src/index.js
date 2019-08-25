@@ -18,7 +18,7 @@ const title = React.createElement(
     'This is my first REACT APP'
 )
 
-ReactDOM.render(
-    title,
-    document.querySelector('#root'),
-)
+// ReactDOM.render(
+//     title,
+//     document.querySelector('#root'),
+// )
